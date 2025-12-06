@@ -1,0 +1,5 @@
+{
+  "name": "NeuroSpeed",
+  "description": "A next-generation AI-powered internet speed test application. Measures latency, download, and upload speeds with real-time visualization and provides an AI-driven analysis of your network capabilities using the Gemini API.",
+  "requestFramePermissions": []
+}
